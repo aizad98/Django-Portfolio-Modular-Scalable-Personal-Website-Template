@@ -9,8 +9,6 @@ This is the online link to my website. https://f2024387002.pythonanywhere.com/
 It will expire in one month, probably on 17 April 2026.
 <img width="1852" height="1610" alt="preview png" src="https://github.com/user-attachments/assets/4b6bfff3-4551-4218-9275-f00123401e33" />
 
-![image](https://user-images.githubusercontent.com/preview.png.png)
-
 ## ✨ Key Features
 * **Modular App Architecture:** Separate apps for `Home`, `Bio`, `Expertise`, `Projects`, and `Education`.
 * **Clean & Modern UI:** Inspired by minimalist "Digital Experience" design.
