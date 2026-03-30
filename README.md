@@ -38,7 +38,6 @@ This project follows a "One App, One Page" philosophy:
 ### **Tools & Deployment**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
 ## 🚀 Quick Start
 1. **Clone the repository:**
    ```bash
